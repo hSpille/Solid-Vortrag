@@ -1,0 +1,162 @@
+
+body {
+	
+}
+
+.step {
+	background-repeat: no-repeat;
+	padding:0;
+	width: 1000px;
+}
+
+#begin {
+    width: 800px;
+    text-align: center;
+    line-height: 100px;
+}
+
+#agenda {
+    color: #888888;
+}
+#agenda h1 {
+    font-size: 100px;
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+#agenda b{
+	color:black;
+}
+
+#fachlicherhintergrund{
+    width: 1280px;
+    text-align: left;
+    font-size:25px;
+
+}
+
+#probleme {
+    color: #888888;
+}
+#probleme h1 {
+    font-size: 100px;
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+#probleme b{
+	color:black;
+}
+
+#agenda-anforderungen {
+    color: #888888;
+}
+#agenda-anforderungen h1 {
+    font-size: 100px;
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+#agenda-anforderungen b{
+	color:black;
+}
+
+
+#agenda-realisierungen {
+    color: #888888;
+}
+#agenda-realisierungen h1 {
+    font-size: 100px;
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+#agenda-realisierungen b{
+	color:black;
+}
+
+#fachlicherhintergrund h1 {
+    font-size: 45px;
+
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+
+#fachlicherhintergrund b {
+    font-size: 40px;
+
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+
+#stand{
+    width: 1280px;
+    text-align: left;
+    color: #888888;
+}
+#stand b{
+	color:black;
+}
+
+#stand h1 {
+    font-size: 60px;
+
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+
+#probleme h1 {
+    font-size: 100px;
+
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+
+#agenda-anforderungen h1 {
+    font-size: 100px;
+
+    -webkit-transform: translateZ(50px);
+    transform:         translateZ(50px);
+}
+
+/*
+    ... and 'scaling' to scale down after another quarter of a second.
+*/
+
+#realisierungf{
+    width: 1280px;
+    text-align: left;
+}
+
+#realisierungg{
+    width: 1280px;
+    text-align: left;
+}
+
+#realisierunggf{
+    width: 1280px;
+    text-align: left;
+}
+
+#realisierungh{
+    width: 1280px;
+    text-align: left;
+}
+#realisierungi{
+    width: 1280px;
+    text-align: left;
+}
+#realisierungj{
+    width: 1280px;
+    text-align: left;
+}
+#realisierungk{
+    width: 1280px;
+    text-align: left;
+}
+#ausblick{
+    width: 1280px;
+    text-align: left;
+}
+
+#ausblick ul{
+    list-style-type:disc;
+}
+
+
